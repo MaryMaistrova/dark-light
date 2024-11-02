@@ -1,0 +1,9 @@
+body.dark, body:has(#theme-toggle:checked) {
+  color: rgb(238, 245, 205);
+  background-color: #003f1f;
+  
+  p {
+    border-color: #003f1f;
+    background-color: #637a42;
+  }
+}
